@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+
+        <string name="dog_description_1">Koda ama perseguir pelotas y jugar en el parque.</string>
+        <string name="dog_description_2">Lola prefiere las siestas largas al sol y comer galletas.</string>
+        <string name="dog_description_3">Frankie es muy amigable y le encanta saludar a todos.</string>
+        <string name="dog_description_4">Nox es curioso y disfruta explorar nuevos lugares.</string>
+        <string name="dog_description_5">Faye es tranquila y muy obediente con sus juguetes.</string>
+        <string name="dog_description_6">Bella es juguetona y le gusta correr por el jardín.</string>
+        <string name="dog_description_7">Moana es tierna y le gusta acurrucarse.</string>
+        <string name="dog_description_8">Tzeitel es activa y disfruta de los largos paseos.</string>
+        <string name="dog_description_9">Leroy es curioso y siempre está atento a todo.</string>
+
+    <string name="about">Acerca:</string>
+    <string name="years_old">%d Años de edad</string>
+    <string name="expand_button_content_description">Ver más o menos información sobre un perro.</string>
+</resources>
